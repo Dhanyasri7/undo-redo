@@ -1,4 +1,4 @@
-# ⭐ Undo-Redo Drawing App
+# ⭐ Undo-Redo-App
 
 A simple React app that allows users to draw **star shapes** on a canvas using mouse clicks. The app also includes **Undo** and **Redo** functionality for a smoother drawing experience.
 
